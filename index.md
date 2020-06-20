@@ -7,7 +7,7 @@ layout: default
 ## 6 voyageurs · 3 chambres · 3 lits · 3 salles de bain
 
 A 300m de la gare de Montmorillon, nous vous accueillons dans une maison spacieuse de 100 m&sup2;, plain pied, calme, bord de rivière (non sécurisé enfants), parking privatif.<br>
-3 chambres confortables avec chacune salle d'eau et toilettes.<br>
+3 chambres confortables avec chacune salle d'eau / toilettes privatives.<br>
 Cuisine dînatoire équipée + TV.<br>
 Salon 30 m&sup2;, 2 canapés, TV, Bibliothèque et billard.<br>
 Wifi gratuit.<br>
