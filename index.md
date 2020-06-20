@@ -74,9 +74,9 @@ Possibilité pêche pour les titulaires de permis.
 
 Pendant votre séjour, nous sommes disponibles sur place pour tous besoins ou renseignements.
 
-Taux de réponse: 100%
+Taux de réponse : 100%
 
-Délai de réponse: Moins d'une heure.
+Délai de réponse : Moins d'une heure.
 
 ## Contact
 
@@ -87,7 +87,7 @@ Délai de réponse: Moins d'une heure.
 
 <a href="https://www.leboncoin.fr/offre/locations_gites/1790931568/">Disponibilité et réservation via leboncoin</a>
 
-* Minimum location: 2 nuits
+* Minimum location : 2 nuits
 * Dépôt de garantie : 500€<br>
   <i>(chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.</i>
 
