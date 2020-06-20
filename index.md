@@ -2,122 +2,64 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Maison entière à Saulgé près de Montmorillon (86500)
 
-[Link to another page](./another-page.html).
+## 6 voyageurs · 3 chambres · 3 lits · 3 salles de bain
 
-There should be whitespace between paragraphs.
+A 300m de la gare de Montmorillon, nous vous accueillons dans une maison spacieuse de 100 m&sup2;, plain pied, calme, bord de rivière (non sécurisé enfants), parking privatif \
+3 chambres confortables avec 3 salles d'eau + toilettes privatives. \
+Cuisine dînatoire équipée + TV. \
+Salon 30 m&sup2;, 2 canapés, TV, Bibliothèque et billard. \
+Wifi gratuit. \
+Ext: Terrasse, jardin, salon de jardin. \
+Espace jeu de boules. \
+Possibilité pêche pour les titulaires de permis. \
+Intérieur non-fumeur.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Équipements
 
-# Header 1
+### Standard
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Cheminée
+* Espace de travail pour ordinateur
+  Une table ou un bureau pouvant accueillir un ordinateur portable, et une chaise pour travailler
+* Lave-linge
+  Dans l'immeuble, gratuit ou payant
+* Chauffage
+  Chauffage central ou radiateur électrique
+* Wi-Fi
+  Accès permanent dans le logement
+* Fer à repasser
+* Équipements de base
+  Serviettes, draps, savon et papier toilette
+* Télévision
 
-## Header 2
+### Installations
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* Parking gratuit sur place
 
-### Header 3
+### Restauration
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Cuisine
+  Espace où vous pourrez cuisiner
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Accès des voyageurs
 
-#### Header 4
+* Clés remises par l'hôte
+* Entrée privée
+  Entrée par une rue différente ou un immeuble séparé
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Chambre et salle de bain
 
-##### Header 5
+* Sèche-cheveux
+* Shampooing
+* Cintres
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### Dispositif de sécurité
 
-###### Header 6
+* Détecteur de fumée
+* Détecteur de monoxyde de carbone
+* Kit de premiers secours
+* Extincteur
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15558.597110503777!2d0.8757825400408649!3d46.42100268170992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47fc24acb23d2cb3%3A0x405d39260e79d20!2s86500%20Saulg%C3%A9%2C%20France!5e0!3m2!1sen!2suk!4v1592661663537!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
