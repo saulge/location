@@ -15,7 +15,7 @@ Intérieur non-fumeur.
 
 #### Extérieur
 
-Terrasse, jardin, salon de jardin.<br>
+Terrasse, jardin arboré, salon de jardin, table picnic.<br>
 Aire jeu de boules, badminton, fléchettes, panier de basket.<br>
 Possibilité pêche pour les titulaires de permis.
 
