@@ -2,23 +2,31 @@
 layout: default
 ---
 
-# Maison entière à Saulgé près de Montmorillon (86500)
+## Maison entière à Saulgé près de Montmorillon (86500)
 
-## 6 voyageurs · 3 chambres · 3 lits · 3 salles de bain
+### 6 voyageurs · 3 chambres · 3 lits · 3 salles de bain
 
-A 300m de la gare de Montmorillon, nous vous accueillons dans une maison spacieuse de 100 m&sup2;, plain pied, calme, bord de rivière (non sécurisé enfants), parking privatif \
-3 chambres confortables avec 3 salles d'eau + toilettes privatives. \
-Cuisine dînatoire équipée + TV. \
-Salon 30 m&sup2;, 2 canapés, TV, Bibliothèque et billard. \
-Wifi gratuit. \
-Ext: Terrasse, jardin, salon de jardin. \
-Espace jeu de boules. \
-Possibilité pêche pour les titulaires de permis. \
+A 300m de la gare de Montmorillon, nous vous accueillons dans une maison spacieuse de 100 m&sup2;, plain pied, calme, bord de rivière (non sécurisé enfants), parking privatif.
+
+3 chambres confortables avec 3 salles d'eau + toilettes privatives.
+
+Cuisine dînatoire équipée + TV.
+
+Salon 30 m&sup2;, 2 canapés, TV, Bibliothèque et billard.
+
+Wifi gratuit.
+
+Ext: Terrasse, jardin, salon de jardin.
+
+Espace jeu de boules.
+
+Possibilité pêche pour les titulaires de permis.
+
 Intérieur non-fumeur.
 
-## Équipements
+### Équipements
 
-### Standard
+#### Standard
 
 * Cheminée
 * Espace de travail pour ordinateur
@@ -34,28 +42,28 @@ Intérieur non-fumeur.
   Serviettes, draps, savon et papier toilette
 * Télévision
 
-### Installations
+#### Installations
 
 * Parking gratuit sur place
 
-### Restauration
+#### Restauration
 
 * Cuisine
   Espace où vous pourrez cuisiner
 
-### Accès des voyageurs
+#### Accès des voyageurs
 
 * Clés remises par l'hôte
 * Entrée privée
   Entrée par une rue différente ou un immeuble séparé
 
-### Chambre et salle de bain
+#### Chambre et salle de bain
 
 * Sèche-cheveux
 * Shampooing
 * Cintres
 
-### Dispositif de sécurité
+#### Dispositif de sécurité
 
 * Détecteur de fumée
 * Détecteur de monoxyde de carbone
