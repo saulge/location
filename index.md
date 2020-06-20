@@ -91,6 +91,7 @@ Délai de réponse: Moins d'une heure.
 * Minimum location: 2 nuits
 * Dépôt de garantie : 500€<br>
   (chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.
+
 * Horaire d'arrivée : 16:00
 * Horaire de départ : 11:00
 
