@@ -80,7 +80,7 @@ Délai de réponse: Moins d'une heure.
 
 ## Disponibilité &amp; Réservation
 
-<a href="https://www.leboncoin.fr/offre/locations_gites/1790931568/" target=_blank>Disponibilité et réservation via leboncoin</a>
+<a href="https://www.leboncoin.fr/offre/locations_gites/1790931568/">Disponibilité et réservation via leboncoin</a>
 
 # Situation Géographique
 
