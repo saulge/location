@@ -1,8 +1,6 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
+title: Maison &agrave; louer
+description: Maison spacieuse et confortable, bord de rivi&egrave;re
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman-modified
 github:
   is_project_page: false
-  show_downloads: false
