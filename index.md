@@ -16,6 +16,9 @@ Espace jeu de boules.<br>
 Possibilité pêche pour les titulaires de permis.<br>
 Intérieur non-fumeur.
 
+* Horaire d'arrivée : 16:00
+* Horaire de départ : 11:00
+
 # Équipements
 
 ## Standard
@@ -71,6 +74,7 @@ Taux de réponse: 100%
 Délai de réponse: Moins d'une heure.
 
 ## Contact
+
 * <a href="mailto:loc.saulge@gmail.com?subject=Demande de Renseignement (site web)">Envoyer un email</a>
 * Téléphone : <span size=1.3em>07 60 95 20 63</span>
 
