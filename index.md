@@ -25,17 +25,21 @@ Possibilité pêche pour les titulaires de permis.
 
 * Cheminée
 * Espace de travail pour ordinateur<br>
-  Une table ou un bureau pouvant accueillir un ordinateur portable, et une chaise pour travailler
-* Lave-linge
-  Dans l'immeuble, gratuit ou payant
-* Chauffage<br>
-  Chauffage central ou radiateur électrique
+  <i>Une table ou un bureau pouvant accueillir un ordinateur portable, et une chaise pour travailler</i>
+* Lave linge
+* Chauffage central
 * Wi-Fi<br>
-  Accès permanent dans le logement
+  <i>Gratuit, accès partout dans le logement</i>
 * Fer à repasser
 * Équipements de base<br>
-  Serviettes, draps, savon et papier toilette
-* Télévision
+  <i>Serviettes, draps, savon et papier toilette</i>
+
+## Salon
+* Grande télévision
+* Billiard
+* 2 canapés
+* Cheminée décorative
+* Bibliothèque
 
 ## Installations
 
@@ -44,18 +48,20 @@ Possibilité pêche pour les titulaires de permis.
 ## Restauration
 
 * Cuisine<br>
-  Espace où vous pourrez cuisiner
+  <i>Espace où vous pourrez cuisiner</i>
+* Lave vaisselle
+* Régfrigérateur-congélateur
+* Télévision
 
 ## Accès des voyageurs
 
 * Clés remises par l'hôte
-* Entrée privée<br>
-  Entrée par une rue différente ou un immeuble séparé
+* Entrée privée
 
 ## Chambre et salle de bain
 
 * Sèche-cheveux
-* Shampooing
+* Gel douche / Shampooing
 * Cintres
 
 ## Dispositif de sécurité
