@@ -11,7 +11,10 @@ A 300m de la gare de Montmorillon, nous vous accueillons dans une maison spacieu
 Cuisine dînatoire équipée + TV.<br>
 Salon 30 m&sup2;, 2 canapés, TV, Bibliothèque et billard.<br>
 Wifi gratuit.<br>
-Ext: Terrasse, jardin, salon de jardin.<br>
+
+#### Extérieur
+
+Terrasse, jardin, salon de jardin.<br>
 Espace jeu de boules.<br>
 Possibilité pêche pour les titulaires de permis.<br>
 Intérieur non-fumeur.
