@@ -91,8 +91,8 @@ Délai de réponse : Moins d'une heure.
 * Dépôt de garantie : 500€<br>
   <i>(chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.</i>
 
-* Horaire d'arrivée : 16:00
-* Horaire de départ : 11:00
+* 16:00 horaire d'arrivée
+* 11:00 horaire de départ
 
 # Situation Géographique
 
