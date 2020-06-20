@@ -75,7 +75,7 @@ Délai de réponse: Moins d'une heure.
 * <a href="mailto:loc.saulge@gmail.com?subject=Demande de Renseignement (site web)">Envoyer un email</a>
 * Téléphone : 07 60 95 20 63
 
-## Disponibilité &amp; Réservation
+# Disponibilité &amp; Réservation
 
 <a href="https://www.leboncoin.fr/offre/locations_gites/1790931568/">Disponibilité et réservation via leboncoin</a>
 
