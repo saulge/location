@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Maison entière à Saulgé près de Montmorillon (86500)
+# Maison entière près de Montmorillon (86500)
 
 ## 6 voyageurs · 3 chambres · 3 lits · 3 salles de bain
 
@@ -16,9 +16,9 @@ Espace jeu de boules.<br>
 Possibilité pêche pour les titulaires de permis.<br>
 Intérieur non-fumeur.
 
-## Équipements
+# Équipements
 
-### Standard
+## Standard
 
 * Cheminée
 * Espace de travail pour ordinateur<br>
@@ -34,34 +34,59 @@ Intérieur non-fumeur.
   Serviettes, draps, savon et papier toilette
 * Télévision
 
-### Installations
+## Installations
 
 * Parking gratuit sur place
 
-### Restauration
+## Restauration
 
 * Cuisine<br>
   Espace où vous pourrez cuisiner
 
-### Accès des voyageurs
+## Accès des voyageurs
 
 * Clés remises par l'hôte
 * Entrée privée<br>
   Entrée par une rue différente ou un immeuble séparé
 
-### Chambre et salle de bain
+## Chambre et salle de bain
 
 * Sèche-cheveux
 * Shampooing
 * Cintres
 
-### Dispositif de sécurité
+## Dispositif de sécurité
 
 * Détecteur de fumée
 * Détecteur de monoxyde de carbone
 * Kit de premiers secours
 * Extincteur
 
+# L'Hôte
+
+Pendant votre séjour, nous sommes disponibles sur place pour tous besoins ou renseignements.
+
+Taux de réponse: 100%
+
+Délai de réponse: Moins d'une heure.
+
+Contact: <a href="mailto:loc.saulge@gmail.com?subject=Demande de Renseignement (site web)">Envoyer un email</a>
+
 # Situation Géographique
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9250.909949548526!2d0.8564387506983245!3d46.42269552126002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47fc3c7308d6a2df%3A0x3dd36cca40640c1a!2sAvenue%20du%20Moulin%20des%20Dames%2C%2086500%20Saulg%C3%A9%2C%20France!5e0!3m2!1sen!2suk!4v1592662665117!5m2!1sen!2suk" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
+Saulgé, Nouvelle-Aquitaine, France
+
+Visiter à Montmorillon : la Cité de l'écrit, ateliers et boutiques de peintres, potiers, objets artisanaux (bijoux en bois-objets en dentelle- verres gravés- etc...), Relieur, créatrice en papier (bijoux en origami- calligraphie- cartes pop-up, etc...) et restauratrice d'oeuvres d'arts graphiques, enlumineur- peinture médiévale, libraires...
+
+Visiter les environs :
+
+* Parc du Futuroscope de Poitiers
+* Centrale de Civaux
+* la Roche-Posay
+* Abbaye de Saint-Savin
+* Défi Planète
+* la Ferme aux crocodiles
+* Cité médiévale de Chauvigny
+* Circuit automobile Le Vigeant
