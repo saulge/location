@@ -16,7 +16,7 @@ Intérieur non-fumeur.
 #### Extérieur
 
 Terrasse, jardin, salon de jardin.<br>
-Espace jeu de boules.<br>
+Espace jeu de boules. Panier de basket.<br>
 Possibilité pêche pour les titulaires de permis.
 
 # Équipements
