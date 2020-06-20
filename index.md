@@ -80,8 +80,8 @@ Délai de réponse: Moins d'une heure.
 <a href="https://www.leboncoin.fr/offre/locations_gites/1790931568/">Disponibilité et réservation via leboncoin</a>
 
 * Minimum location: 2 nuits
-* Dépôt de garantie : 500€ (chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.
-
+* Dépôt de garantie : 500€<br>
+  (chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.
 * Horaire d'arrivée : 16:00
 * Horaire de départ : 11:00
 
