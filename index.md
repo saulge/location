@@ -63,7 +63,7 @@ Possibilité pêche pour les titulaires de permis.
 * Détecteur de fumée
 * Détecteur de monoxyde de carbone
 * Kit de premiers secours
-* Extincteur
+* Extincteurs
 
 # L'Hôte
 
