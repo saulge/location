@@ -23,7 +23,6 @@ Possibilité pêche pour les titulaires de permis.
 
 ## Standard
 
-* Cheminée
 * Espace de travail pour ordinateur<br>
   <i>Une table ou un bureau pouvant accueillir un ordinateur portable, et une chaise pour travailler</i>
 * Lave linge
@@ -90,7 +89,7 @@ Délai de réponse: Moins d'une heure.
 
 * Minimum location: 2 nuits
 * Dépôt de garantie : 500€<br>
-  (chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.
+  <i>(chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.</i>
 
 * Horaire d'arrivée : 16:00
 * Horaire de départ : 11:00
@@ -107,9 +106,9 @@ Visiter les environs :
 
 * Parc du Futuroscope de Poitiers
 * Centrale de Civaux
-* la Roche-Posay
+* La Roche-Posay
 * Abbaye de Saint-Savin
 * Défi Planète
-* la Ferme aux crocodiles
+* La Ferme aux crocodiles
 * Cité médiévale de Chauvigny
 * Circuit automobile Le Vigeant
