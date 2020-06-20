@@ -28,7 +28,7 @@ Possibilité pêche pour les titulaires de permis.
 * Lave linge
 * Chauffage central
 * Wi-Fi<br>
-  <i>Gratuit, accès partout dans le logement</i>
+  <i>Accès partout dans le logement</i>
 * Fer à repasser
 * Équipements de base<br>
   <i>Serviettes, draps, savon et papier toilette</i>
