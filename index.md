@@ -54,7 +54,7 @@ Possibilité pêche pour les titulaires de permis.
 * Sèche-cheveux
 * Gel douche / Shampooing
 * Équipements de base<br>
-  <i>Serviettes, draps, papier toilette</i>
+  <i>Serviettes, draps, savon et papier toilette</i>
 * Cintres
 
 ## Salon
@@ -69,10 +69,10 @@ Possibilité pêche pour les titulaires de permis.
 * Ustensiles courants
 * Lave vaisselle
 * Réfrigérateur-congélateur
-* Cefetière électrique
+* Cafetière électrique
 * Bouilloire électrique
 * Grille-pain
-* Four traditionnel
+* Four électrique
 * Four micro-ondes
 * Télévision
 * Lave linge
@@ -111,7 +111,7 @@ Délai de réponse : Moins d'une heure.
 
 * Minimum location : 2 nuits
 * Dépôt de garantie : 500€<br>
-  <i>(chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ.</i>
+  <i>(chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ</i>
 
 * Horaire d'arrivée : 16h
 * Horaire de départ : 11h
