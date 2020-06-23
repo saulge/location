@@ -19,6 +19,27 @@ Terrasse, jardin arboré, salon de jardin, table picnic.<br>
 Aire jeu de boules, badminton, fléchettes, panier de basket.<br>
 Possibilité pêche pour les titulaires de permis.
 
+<ul id="light-slider" class="gallery">
+    <li data-thumb="/location/images/chambre-1-p1.jpg"   data-src="/location/images/chambre-1-p1.jpg">  <img src="/location/images/chambre-1-p1.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
+    <li data-thumb="/location/images/chambre-1-p2.jpg"   data-src="/location/images/chambre-1-p2.jpg">  <img src="/location/images/chambre-1-p2.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
+    <li data-thumb="/location/images/chambre-1-p3.jpg"   data-src="/location/images/chambre-1-p3.jpg">  <img src="/location/images/chambre-1-p3.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
+    <li data-thumb="/location/images/chambre-2-p1.jpg"   data-src="/location/images/chambre-2-p1.jpg">   <img src="/location/images/chambre-2-p1.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
+    <li data-thumb="/location/images/chambre-2-p2.jpg"   data-src="/location/images/chambre-2-p2.jpg">  <img src="/location/images/chambre-2-p2.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
+    <li data-thumb="/location/images/chambre-2-p3.jpg"   data-src="/location/images/chambre-2-p3.jpg">  <img src="/location/images/chambre-2-p3.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
+    <li data-thumb="/location/images/chambre-3-p1.jpg"   data-src="/location/images/chambre-3-p1.jpg">  <img src="/location/images/chambre-3-p1.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
+    <li data-thumb="/location/images/chambre-3-p2.jpg"   data-src="/location/images/chambre-3-p2.jpg">  <img src="/location/images/chambre-3-p2.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
+    <li data-thumb="/location/images/cuisine-p2.jpg"     data-src="/location/images/cuisine-p2.jpg">    <img src="/location/images/cuisine-p2.jpg" alt="Cuisine"><div class="sub">Cuisine</div></li>
+    <li data-thumb="/location/images/cuisin-p1.jpg"      data-src="/location/images/cuisin-p1.jpg">     <img src="/location/images/cuisin-p1.jpg" alt="Cuisine"><div class="sub">Cuisine</div></li>
+    <li data-thumb="/location/images/entree.jpg"         data-src="/location/images/entree.jpg">        <img src="/location/images/entree.jpg" alt="Entrée"><div class="sub">Entrée</div></li>
+    <li data-thumb="/location/images/parc.jpg"           data-src="/location/images/parc.jpg">          <img src="/location/images/parc.jpg" alt="Parc"><div class="sub">Parc</div></li>
+    <li data-thumb="/location/images/parc-riviere.jpg"   data-src="/location/images/parc-riviere.jpg">  <img src="/location/images/parc-riviere.jpg" alt="Parc"><div class="sub">Parc</div></li>
+    <li data-thumb="/location/images/salle-deau.jpg"     data-src="/location/images/salle-deau.jpg">    <img src="/location/images/salle-deau.jpg" alt="Salle d'eau"><div class="sub">Salle d'eau</div></li>
+    <li data-thumb="/location/images/salle-de-bains.jpg" data-src="/location/images/salle-de-bains.jpg"><img src="/location/images/salle-de-bains.jpg" alt="Salle de bains"><div class="sub">Salle de bains</div></li>
+    <li data-thumb="/location/images/salon-p1.jpeg"      data-src="/location/images/salon-p1.jpeg">     <img src="/location/images/salon-p1.jpeg" alt="Salon"><div class="sub">Salon</div></li>
+    <li data-thumb="/location/images/salon-p2.jpg"       data-src="/location/images/salon-p2.jpg">      <img src="/location/images/salon-p2.jpg" alt="Salon"><div class="sub">Salon</div></li>
+    <li data-thumb="/location/images/salon-p3.jpg"       data-src="/location/images/salon-p3.jpg">      <img src="/location/images/salon-p3.jpg" alt="Salon"><div class="sub">Salon</div></li>
+</ul>
+
 # Équipements
 
 ## Standard
@@ -112,3 +133,27 @@ Visiter les environs :
 * La Ferme aux crocodiles
 * Cité médiévale de Chauvigny
 * Circuit automobile Le Vigeant
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#light-slider").lightSlider({
+            gallery:true,
+item: 1,
+thumbItem: 6,
+vertical: false,
+slideMargin: 0,
+enableDrag: false,
+mode:"slide",
+adaptiveHeight: true,
+useCSS:true,
+loop:true,
+keyPress:true,
+onSliderLoad: function(el) {
+    el.lightGallery({
+        selector: '#light-slider .lslide',
+        download: false,
+    });
+}   ,
+        })
+    })
+</script>
+

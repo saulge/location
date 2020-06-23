@@ -1,6 +1,13 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+      <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.min.css" integrity="sha256-ev+XS9lVA6/6vEe/p9pncQjsHB6g9UtAZYFLNViXxAA=" crossorigin="anonymous" />
+      <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.2/css/lightgallery.min.css" integrity="sha256-nAgWUDEvmv2xzyXX2Bp6d2IPUR3R1d1Y9yab7GjtLBE=" crossorigin="anonymous" />
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/lightgallery/1.7.2/js/lightgallery.min.js" integrity="sha256-H3CTHwp+3RRpBr5M9snvAP8jKoNAxgYkGaubdQkJ4jU=" crossorigin="anonymous"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js" integrity="sha256-nHmCK+HOPMPezzS3ky9VKznMWH4sW4keT8HrMaDNbYo=" crossorigin="anonymous"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js" integrity="sha256-jnOjDTXIPqall8M0MyTSt98JetJuZ7Yu+1Jm7hLTF7U=" crossorigin="anonymous"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/lg-thumbnail/1.2.1/lg-thumbnail.min.js" integrity="sha256-6Bch5OoA4xsAoUowrBDylowTXY0U9cbctwlD+OgSrz4=" crossorigin="anonymous"></script>
 
       <!--link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet"-->
     {% if site.google_analytics %}
@@ -19,6 +26,13 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <style type="text/css">
+      .sub {
+      text-align: center;
+      font-size: 0.8em;
+      }
+    </style>
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
