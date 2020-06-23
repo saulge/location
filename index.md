@@ -109,7 +109,7 @@ Délai de réponse : Moins d'une heure.
 
 <a href="https://www.leboncoin.fr/offre/locations_gites/1790931568/">Disponibilité et réservation via leboncoin</a>
 
-* Minimum location : 2 nuits
+* Minimum : 2 nuits
 * Dépôt de garantie : 500€<br>
   <i>(chèque ou espèces) demandé à votre arrivée et restitué lors de votre départ</i>
 
@@ -122,7 +122,7 @@ Délai de réponse : Moins d'une heure.
 
 La maison est située à Saulgé, Nouvelle-Aquitaine, France. Le centre-ville de Montmorillon est à 10 minutes à pieds, la gare ferroviaire à 5 minutes à pieds.
 
-Visiter à Montmorillon : la Cité de l'écrit, ateliers et boutiques de peintres, potiers, objets artisanaux (bijoux en bois-objets en dentelle &mdash; verres gravés &mdash;  etc...), Relieur, créatrice en papier (bijoux en origami- calligraphie- cartes pop-up, etc...) et restauratrice d'oeuvres d'arts graphiques, enlumineur- peinture médiévale, libraires...
+Visiter à Montmorillon : la Cité de l'écrit, ateliers et boutiques de peintres, potiers, objets artisanaux (bijoux en bois-objets en dentelle &mdash; verres gravés &mdash;  etc&mldr;), relieur, créatrice en papier (bijoux en origami &mdash; calligraphie &mdash; cartes pop-up, etc&mldr;) et restauratrice d'oeuvres d'arts graphiques, enlumineur- peinture médiévale, libraires&mldr;
 
 Visiter les environs :
 
@@ -131,6 +131,7 @@ Visiter les environs :
 * La Roche-Posay
 * Abbaye de Saint-Savin
 * Défi Planète
+* L'Isle-Jourdain, etc&mldr;
 * La Ferme aux crocodiles
 * Cité médiévale de Chauvigny
 * Circuit automobile Le Vigeant
