@@ -122,7 +122,7 @@ Délai de réponse : Moins d'une heure.
 
 La maison est située à Saulgé, Nouvelle-Aquitaine, France. Le centre-ville de Montmorillon est à 10 minutes à pieds, la gare ferroviaire à 5 minutes à pieds.
 
-Visiter à Montmorillon : la Cité de l'écrit, ateliers et boutiques de peintres, potiers, objets artisanaux (bijoux en bois-objets en dentelle &mdash; verres gravés &mdash;  etc&hellip;), relieur, créatrice en papier (bijoux en origami &mdash; calligraphie &mdash; cartes pop-up, etc&hellip;) et restauratrice d'oeuvres d'arts graphiques, enlumineur- peinture médiévale, libraires&hellip;
+Visiter à Montmorillon : la Cité de l'écrit, ateliers et boutiques de peintres, potiers, objets artisanaux (bijoux en bois-objets en dentelle &mdash; verres gravés &mdash;  etc&hellip;), relieur, créatrice en papier (bijoux en origami &mdash; calligraphie &mdash; cartes pop-up, etc&hellip;) et restauratrice d'oeuvres d'arts graphiques, enlumineur, peinture médiévale, libraires&hellip;
 
 Visiter les environs :
 
