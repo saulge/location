@@ -96,8 +96,7 @@ Possibilité pêche pour les titulaires de permis.
 
 Pendant votre séjour, nous sommes disponibles sur place pour tous besoins ou renseignements.
 
-Taux de réponse : 100%
-
+Taux de réponse : 100%<br>
 Délai de réponse : Moins d'une heure.
 
 ## Contact
