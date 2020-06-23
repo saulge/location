@@ -118,7 +118,7 @@ Délai de réponse : Moins d'une heure.
 
 # Situation Géographique
 
-<a href="https://maps.google.com/maps?ll=46.414591,0.87847&z=14&t=m&hl=fr&gl=FR&mapclient=embed&q=Avenue%20du%20Moulin%20des%20Dames%2086500%20Saulg%C3%A9%20France" target="_blank"><img serc="images/carte.jpg"></a>
+<a href="https://maps.google.com/maps?ll=46.414591,0.87847&z=14&t=m&hl=fr&gl=FR&mapclient=embed&q=Avenue%20du%20Moulin%20des%20Dames%2086500%20Saulg%C3%A9%20France" target="_blank"><img src="/location/images/carte.jpg"></a>
 
 La maison est située à Saulgé, Nouvelle-Aquitaine, France. Le centre-ville de Montmorillon est à 10 minutes à pieds, la gare ferroviaire à 5 minutes à pieds.
 
