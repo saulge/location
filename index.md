@@ -39,50 +39,51 @@ Possibilité pêche pour les titulaires de permis.
     <li data-thumb="/location/images/salon-p2.jpg"       data-src="/location/images/salon-p2.jpg">      <img src="/location/images/salon-p2.jpg" alt="Salon"><div class="sub">Salon</div></li>
     <li data-thumb="/location/images/salon-p3.jpg"       data-src="/location/images/salon-p3.jpg">      <img src="/location/images/salon-p3.jpg" alt="Salon"><div class="sub">Salon</div></li>
 </ul>
-
 # Équipements
 
 ## Standard
 
-* Espace de travail pour ordinateur<br>
-  <i>Une table ou un bureau pouvant accueillir un ordinateur portable, et une chaise pour travailler</i>
-* Lave linge
 * Chauffage central
 * Wi-Fi<br>
   <i>Accès partout dans le logement</i>
-* Fer à repasser
+
+## Chambres et salles d'eau
+
+* Espace de travail pour ordinateur<br>
+  <i>Un bureau pouvant accueillir un ordinateur portable et une chaise pour travailler</i>
+* Sèche-cheveux
+* Gel douche / Shampooing
 * Équipements de base<br>
   <i>Serviettes, draps, savon et papier toilette</i>
+* Cintres
 
 ## Salon
 * Grande télévision
-* Billiard
+* Billard
 * 2 canapés
 * Cheminée décorative
 * Bibliothèque
 
+## Cuisine
+
+* Ustensiles courants
+* Lave vaisselle
+* Réfrigérateur-congélateur
+* Cefetière électrique
+* Bouilloire électrique
+* Grille-pain
+* Four traditionnel
+* Four micro-ondes
+* Télévision
+* Lave linge
+* Fer et table à repasser
+
 ## Installations
 
-* Parking gratuit sur place
-
-## Restauration
-
-* Cuisine<br>
-  <i>Espace où vous pourrez cuisiner</i>
-* Lave vaisselle
-* Régfrigérateur-congélateur
-* Télévision
-
-## Accès des voyageurs
-
-* Clés remises par l'hôte
 * Entrée privée
-
-## Chambre et salle de bain
-
-* Sèche-cheveux
-* Gel douche / Shampooing
-* Cintres
+* Parking privatif
+* Possibilité de stationner dans la rue
+* Clés remises par l'hôte
 
 ## Dispositif de sécurité
 
