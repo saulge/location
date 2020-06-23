@@ -54,7 +54,7 @@ Possibilité pêche pour les titulaires de permis.
 * Sèche-cheveux
 * Gel douche / Shampooing
 * Équipements de base<br>
-  <i>Serviettes, draps, savon et papier toilette</i>
+  <i>Serviettes, draps, papier toilette</i>
 * Cintres
 
 ## Salon
