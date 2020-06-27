@@ -171,7 +171,7 @@ Visiter les environs :
         $("#light-slider-ch").lightSlider({
             gallery:true,
             item: 1,
-            thumbItem: 3,
+            thumbItem: 8,
             vertical: true,
             slideMargin: 0,
             enableDrag: false,
