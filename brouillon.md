@@ -4,10 +4,11 @@ layout: default
 
 # Maison près de Montmorillon (86500)
 
-## 6 personnes · 3 chambres · 3 lits doubles · 3 salles de bain
+## 6 personnes · 3 chambres avec lit double et salles de bain privative
+
+## La Maison
 
 A 300m de la gare de Montmorillon, nous vous accueillons dans une maison spacieuse de 100 m&sup2;, plain pied, calme, bord de rivière (non sécurisé enfants), parking privatif.<br>
-3 chambres confortables avec chacune salle d'eau / toilettes privatives.<br>
 Cuisine dînatoire équipée + TV.<br>
 Salon 30 m&sup2;, 2 canapés, TV, Bibliothèque et billard.<br>
 Wifi gratuit.<br>
@@ -20,16 +21,8 @@ Aire jeu de boules, badminton, fléchettes, panier de basket.<br>
 Possibilité pêche pour les titulaires de permis.
 
 <ul id="light-slider" class="gallery">
-    <li data-thumb="/location/images/chambre-1-p1.jpg"   data-src="/location/images/chambre-1-p1.jpg">  <img src="/location/images/chambre-1-p1.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
-    <li data-thumb="/location/images/chambre-1-p2.jpg"   data-src="/location/images/chambre-1-p2.jpg">  <img src="/location/images/chambre-1-p2.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
-    <li data-thumb="/location/images/chambre-1-p3.jpg"   data-src="/location/images/chambre-1-p3.jpg">  <img src="/location/images/chambre-1-p3.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
-    <li data-thumb="/location/images/chambre-2-p1.jpg"   data-src="/location/images/chambre-2-p1.jpg">   <img src="/location/images/chambre-2-p1.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
-    <li data-thumb="/location/images/chambre-2-p2.jpg"   data-src="/location/images/chambre-2-p2.jpg">  <img src="/location/images/chambre-2-p2.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
-    <li data-thumb="/location/images/chambre-2-p3.jpg"   data-src="/location/images/chambre-2-p3.jpg">  <img src="/location/images/chambre-2-p3.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
-    <li data-thumb="/location/images/chambre-3-p1.jpg"   data-src="/location/images/chambre-3-p1.jpg">  <img src="/location/images/chambre-3-p1.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
-    <li data-thumb="/location/images/chambre-3-p2.jpg"   data-src="/location/images/chambre-3-p2.jpg">  <img src="/location/images/chambre-3-p2.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
     <li data-thumb="/location/images/cuisine-p2.jpg"     data-src="/location/images/cuisine-p2.jpg">    <img src="/location/images/cuisine-p2.jpg" alt="Cuisine"><div class="sub">Cuisine</div></li>
-    <li data-thumb="/location/images/cuisin-p1.jpg"      data-src="/location/images/cuisin-p1.jpg">     <img src="/location/images/cuisin-p1.jpg" alt="Cuisine"><div class="sub">Cuisine</div></li>
+    <li data-thumb="/location/images/cuisine-p1.jpg"     data-src="/location/images/cuisine-p1.jpg">    <img src="/location/images/cuisin-p1.jpg" alt="Cuisine"><div class="sub">Cuisine</div></li>
     <li data-thumb="/location/images/entree.jpg"         data-src="/location/images/entree.jpg">        <img src="/location/images/entree.jpg" alt="Entrée"><div class="sub">Entrée</div></li>
     <li data-thumb="/location/images/parc.jpg"           data-src="/location/images/parc.jpg">          <img src="/location/images/parc.jpg" alt="Parc"><div class="sub">Parc</div></li>
     <li data-thumb="/location/images/parc-riviere.jpg"   data-src="/location/images/parc-riviere.jpg">  <img src="/location/images/parc-riviere.jpg" alt="Parc"><div class="sub">Parc</div></li>
@@ -39,6 +32,33 @@ Possibilité pêche pour les titulaires de permis.
     <li data-thumb="/location/images/salon-p2.jpg"       data-src="/location/images/salon-p2.jpg">      <img src="/location/images/salon-p2.jpg" alt="Salon"><div class="sub">Salon</div></li>
     <li data-thumb="/location/images/salon-p3.jpg"       data-src="/location/images/salon-p3.jpg">      <img src="/location/images/salon-p3.jpg" alt="Salon"><div class="sub">Salon</div></li>
 </ul>
+
+## Les chambres à louer
+
+3 chambres confortables avec chacune lit double et salle d'eau / toilettes privatives.
+
+### Chambre 1
+<ul id="light-slider-1" class="gallery">
+    <li data-thumb="/location/images/chambre-1-p1.jpg"   data-src="/location/images/chambre-1-p1.jpg">  <img src="/location/images/chambre-1-p1.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
+    <li data-thumb="/location/images/chambre-1-p2.jpg"   data-src="/location/images/chambre-1-p2.jpg">  <img src="/location/images/chambre-1-p2.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
+    <li data-thumb="/location/images/chambre-1-p3.jpg"   data-src="/location/images/chambre-1-p3.jpg">  <img src="/location/images/chambre-1-p3.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
+</ul>
+
+### Chambre 2
+
+<ul id="light-slider-2" class="gallery">
+    <li data-thumb="/location/images/chambre-2-p1.jpg"   data-src="/location/images/chambre-2-p1.jpg">   <img src="/location/images/chambre-2-p1.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
+    <li data-thumb="/location/images/chambre-2-p2.jpg"   data-src="/location/images/chambre-2-p2.jpg">  <img src="/location/images/chambre-2-p2.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
+    <li data-thumb="/location/images/chambre-2-p3.jpg"   data-src="/location/images/chambre-2-p3.jpg">  <img src="/location/images/chambre-2-p3.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
+</ul>
+
+### Chambre 3
+
+<ul id="light-slider-3" class="gallery">
+    <li data-thumb="/location/images/chambre-3-p1.jpg"   data-src="/location/images/chambre-3-p1.jpg">  <img src="/location/images/chambre-3-p1.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
+    <li data-thumb="/location/images/chambre-3-p2.jpg"   data-src="/location/images/chambre-3-p2.jpg">  <img src="/location/images/chambre-3-p2.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
+</ul>
+
 # Équipements
 
 ## Standard
@@ -138,22 +158,43 @@ Visiter les environs :
     $(document).ready(function() {
         $("#light-slider").lightSlider({
             gallery:true,
-item: 1,
-thumbItem: 6,
-vertical: false,
-slideMargin: 0,
-enableDrag: false,
-mode:"slide",
-adaptiveHeight: true,
-useCSS:true,
-loop:true,
-keyPress:true,
-onSliderLoad: function(el) {
-    el.lightGallery({
-        selector: '#light-slider .lslide',
-        download: false,
-    });
-}   ,
+            item: 1,
+            thumbItem: 6,
+            vertical: false,
+            slideMargin: 0,
+            enableDrag: false,
+            mode:"slide",
+            adaptiveHeight: true,
+            useCSS:true,
+            loop:true,
+            keyPress:true,
+            onSliderLoad: function(el) {
+            el.lightGallery({
+                selector: "#light-slider .lslide",
+        	download: false,
+            });
+            },
+        })
+
+        let chambres = ['light-slider-1', 'light-slider-2', 'light-slider-3' ]
+        chambres.forEach(function(item, index) {
+            $("#" + item).lightSlider({
+                gallery:true,
+                item: 1,
+                thumbItem: 3,
+                vertical: true,
+                slideMargin: 0,
+                enableDrag: false,
+                mode:"slide",
+                useCSS:true,
+                loop:true,
+                onSliderLoad: function(el) {
+                el.lightGallery({
+                    selector: "#" + item + " .lslide",
+            	download: false,
+                });
+                },
+            })
         })
     })
 </script>
