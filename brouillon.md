@@ -23,9 +23,9 @@ Possibilité pêche pour les titulaires de permis.
 
 #### Possibilités de Location
 
-* Gîte avec 1 chambre : 70 &euro;/jour
-* Gîte avec 2 chambres : 80 &euro;/jour
-* Gîte avec 3 chambres : 90 &euro;/jour
+* La maison à usage exclusif comprenant salon, cuisine dînatoire et une chambre avec salle d'eau et toilettes privatives, extérieur : 70 &euros;
+* La maison à usage exclusif comprenant salon, cuisine dînatoire et deux chambres avec salles d'eau et toilettes privatives, extérieur : 80 &euros;
+* La maison à usage exclusif comprenant salon, cuisine dînatoire et trois chambres avec salles d'eau et toilettes privatives, extérieur : 90 &euros;
 
 <ul id="light-slider" class="gallery">
     <li data-thumb="/location/images/chambre-1-p1.jpg"   data-src="/location/images/chambre-1-p1.jpg">  <img src="/location/images/chambre-1-p1.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
@@ -47,7 +47,6 @@ Possibilité pêche pour les titulaires de permis.
     <li data-thumb="/location/images/parc.jpg"           data-src="/location/images/parc.jpg">          <img src="/location/images/parc.jpg" alt="Parc"><div class="sub">Parc</div></li>
     <li data-thumb="/location/images/parc-riviere.jpg"   data-src="/location/images/parc-riviere.jpg">  <img src="/location/images/parc-riviere.jpg" alt="Parc"><div class="sub">Parc</div></li>
 </ul>
-
 # Équipements
 
 ## Standard
