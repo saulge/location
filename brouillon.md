@@ -21,14 +21,6 @@ Terrasse, jardin arboré, salon de jardin, table picnic.<br>
 Aire jeu de boules, badminton, fléchettes, panier de basket.<br>
 Possibilité pêche pour les titulaires de permis.
 
-#### Possibilités de Location
-
-Dans tous les cas La maison est à usage exclusif et comprends le salon, la cuisine dînatoire et uncertain nombre de chambres, chacune avec salle d'eau et toilettes privatives, ainsi qu'accès à l'extérieur.
-
-* Option avec une seule chambre : 70 &euros;
-* Option avec deux chambres : 80 &euros;
-* Option avec trois chambres : 90 &euros;
-
 <ul id="light-slider" class="gallery">
     <li data-thumb="/location/images/chambre-1-p1.jpg"   data-src="/location/images/chambre-1-p1.jpg">  <img src="/location/images/chambre-1-p1.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
     <li data-thumb="/location/images/chambre-1-p2.jpg"   data-src="/location/images/chambre-1-p2.jpg">  <img src="/location/images/chambre-1-p2.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
@@ -49,6 +41,15 @@ Dans tous les cas La maison est à usage exclusif et comprends le salon, la cuis
     <li data-thumb="/location/images/parc.jpg"           data-src="/location/images/parc.jpg">          <img src="/location/images/parc.jpg" alt="Parc"><div class="sub">Parc</div></li>
     <li data-thumb="/location/images/parc-riviere.jpg"   data-src="/location/images/parc-riviere.jpg">  <img src="/location/images/parc-riviere.jpg" alt="Parc"><div class="sub">Parc</div></li>
 </ul>
+# Possibilités de Location
+
+Dans tous les cas La maison est à usage exclusif et comprend le salon, la cuisine dînatoire et un certain nombre de chambres, chacune avec salle d'eau et toilettes privatives, ainsi qu'accès à l'extérieur.
+
+* Option avec une seule chambre : 70 &euro;
+* Option avec deux chambres : 80 &euro;
+* Option avec trois chambres : 90 &euro;
+
+
 # Équipements
 
 ## Standard
@@ -149,7 +150,7 @@ Visiter les environs :
         $("#light-slider").lightSlider({
             gallery:true,
             item: 1,
-            thumbItem: 8,
+            thumbItem: 9,
             vertical: false,
             slideMargin: 0,
             enableDrag: false,
