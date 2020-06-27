@@ -4,7 +4,7 @@ layout: default
 
 # Maison près de Montmorillon (86500)
 
-## 6 personnes · 3 chambres avec lit double et salles de bain privative
+## 6 personnes · 3 chambres avec lits doubles et salles de bain privatives
 
 ## La Maison
 
@@ -37,24 +37,17 @@ Possibilité pêche pour les titulaires de permis.
 
 3 chambres confortables avec chacune lit double et salle d'eau / toilettes privatives.
 
-### Chambre 1
-<ul id="light-slider-1" class="gallery">
+* 1 chambre : 70 &euro;
+* 2 chambres : 80 &euro;
+* 3 chambres : 90 &euro;
+
+<ul id="light-slider-ch" class="gallery">
     <li data-thumb="/location/images/chambre-1-p1.jpg"   data-src="/location/images/chambre-1-p1.jpg">  <img src="/location/images/chambre-1-p1.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
     <li data-thumb="/location/images/chambre-1-p2.jpg"   data-src="/location/images/chambre-1-p2.jpg">  <img src="/location/images/chambre-1-p2.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
     <li data-thumb="/location/images/chambre-1-p3.jpg"   data-src="/location/images/chambre-1-p3.jpg">  <img src="/location/images/chambre-1-p3.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
-</ul>
-
-### Chambre 2
-
-<ul id="light-slider-2" class="gallery">
     <li data-thumb="/location/images/chambre-2-p1.jpg"   data-src="/location/images/chambre-2-p1.jpg">   <img src="/location/images/chambre-2-p1.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
     <li data-thumb="/location/images/chambre-2-p2.jpg"   data-src="/location/images/chambre-2-p2.jpg">  <img src="/location/images/chambre-2-p2.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
     <li data-thumb="/location/images/chambre-2-p3.jpg"   data-src="/location/images/chambre-2-p3.jpg">  <img src="/location/images/chambre-2-p3.jpg" alt="Chambre 2"><div class="sub">Chambre 2</div></li>
-</ul>
-
-### Chambre 3
-
-<ul id="light-slider-3" class="gallery">
     <li data-thumb="/location/images/chambre-3-p1.jpg"   data-src="/location/images/chambre-3-p1.jpg">  <img src="/location/images/chambre-3-p1.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
     <li data-thumb="/location/images/chambre-3-p2.jpg"   data-src="/location/images/chambre-3-p2.jpg">  <img src="/location/images/chambre-3-p2.jpg" alt="Chambre 3"><div class="sub">Chambre 3</div></li>
 </ul>
@@ -175,25 +168,22 @@ Visiter les environs :
                 })
             },
         })
-        let chambres = [ "light-slider-1", "light-slider-2", "light-slider-3" ]
-        chambres.forEach(function(item, index) {
-            $("#" + item).lightSlider({
-                gallery:true,
-                item: 1,
-                thumbItem: 3,
-                vertical: true,
-                slideMargin: 0,
-                enableDrag: false,
-                mode:"slide",
-                useCSS:true,
-                loop:true,
-                onSliderLoad: function(el) {
-                    el.lightGallery({
-                        selector: "#" + item + " .lslide",
-                        download: false,
-                    })
-                },
-            })
+        $("#light-slider-ch").lightSlider({
+            gallery:true,
+            item: 1,
+            thumbItem: 3,
+            vertical: true,
+            slideMargin: 0,
+            enableDrag: false,
+            mode:"slide",
+            useCSS:true,
+            loop:true,
+            onSliderLoad: function(el) {
+                el.lightGallery({
+                    selector: "#" + item + " .lslide",
+                    download: false,
+                })
+            },
         })
     })
 </script>
