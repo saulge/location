@@ -23,9 +23,11 @@ Possibilité pêche pour les titulaires de permis.
 
 #### Possibilités de Location
 
-* La maison à usage exclusif comprenant salon, cuisine dînatoire et une chambre avec salle d'eau et toilettes privatives, extérieur : 70 &euros;
-* La maison à usage exclusif comprenant salon, cuisine dînatoire et deux chambres avec salles d'eau et toilettes privatives, extérieur : 80 &euros;
-* La maison à usage exclusif comprenant salon, cuisine dînatoire et trois chambres avec salles d'eau et toilettes privatives, extérieur : 90 &euros;
+Dans tous les cas La maison est à usage exclusif et comprends le salon, la cuisine dînatoire et uncertain nombre de chambres, chacune avec salle d'eau et toilettes privatives, ainsi qu'accès à l'extérieur.
+
+* Option avec une seule chambre : 70 &euros;
+* Option avec deux chambres : 80 &euros;
+* Option avec trois chambres : 90 &euros;
 
 <ul id="light-slider" class="gallery">
     <li data-thumb="/location/images/chambre-1-p1.jpg"   data-src="/location/images/chambre-1-p1.jpg">  <img src="/location/images/chambre-1-p1.jpg" alt="Chambre 1"><div class="sub">Chambre 1</div></li>
@@ -147,7 +149,7 @@ Visiter les environs :
         $("#light-slider").lightSlider({
             gallery:true,
             item: 1,
-            thumbItem: 6,
+            thumbItem: 8,
             vertical: false,
             slideMargin: 0,
             enableDrag: false,
