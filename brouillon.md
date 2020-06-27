@@ -169,14 +169,14 @@ Visiter les environs :
             loop:true,
             keyPress:true,
             onSliderLoad: function(el) {
-            el.lightGallery({
-                selector: "#light-slider .lslide",
-        	download: false,
-            });
+                el.lightGallery({
+                    selector: "#light-slider .lslide",
+                    download: false,
+                })
             },
         })
 
-        let chambres = ['light-slider-1', 'light-slider-2', 'light-slider-3' ]
+        let chambres = [ "light-slider-1", "light-slider-2", "light-slider-3" ]
         chambres.forEach(function(item, index) {
             $("#" + item).lightSlider({
                 gallery:true,
@@ -189,10 +189,10 @@ Visiter les environs :
                 useCSS:true,
                 loop:true,
                 onSliderLoad: function(el) {
-                el.lightGallery({
-                    selector: "#" + item + " .lslide",
-            	download: false,
-                });
+                    el.lightGallery({
+                        selector: "#" + item + " .lslide",
+                        download: false,
+                    })
                 },
             })
         })
