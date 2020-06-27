@@ -175,7 +175,6 @@ Visiter les environs :
                 })
             },
         })
-
         let chambres = [ "light-slider-1", "light-slider-2", "light-slider-3" ]
         chambres.forEach(function(item, index) {
             $("#" + item).lightSlider({
